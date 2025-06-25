@@ -1,3 +1,7 @@
+## Screenshots
+
+### Manager Dashboard
+![Dashboard](employee_dashboard..jpg)
 
 # Manager Feedback System
 
