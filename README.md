@@ -1,5 +1,4 @@
-# Manager_FeedBack_to_employee
-  A structured, secure feedback-sharing system between managers and employees. Built with **FastAPI**, **MySQL**, **React**, and containerized using **Docker**.
+
 # Manager Feedback System
 
 This is a role-based feedback management system for internal teams. It allows managers to submit structured feedback for their employees and employees to view and acknowledge their feedback.
@@ -121,12 +120,7 @@ CREATE TABLE feedback (
 
 ---
 
-## ✅ To Do (Optional Enhancements)
 
-- JWT-based authentication
-- Feedback analytics on dashboard
-- React dashboard UI polish
-- Cloud deployment (e.g. Render, Railway)
 
 ---
 
