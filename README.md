@@ -1,7 +1,3 @@
-## Screenshots
-
-### Manager Dashboard
-![Dashboard](manager_dashboard.jpg)
 
 # Manager Feedback System
 
