@@ -1,7 +1,7 @@
 ## Screenshots
 
 ### Manager Dashboard
-![Dashboard](employee_dashboard..jpg)
+![Dashboard](manager_dashboard.jpg)
 
 # Manager Feedback System
 
